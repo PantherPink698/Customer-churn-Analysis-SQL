@@ -1,8 +1,8 @@
-#  Customer Churn Analysis (SQL + Python + R)
+#  Customer Churn Analysis (SQL + Python)
 
 ##  Overview
 
-This project analyzes customer churn behavior using **MySQL, Python, and R** to identify key factors affecting retention and provide actionable business insights.
+This project analyzes customer churn behavior using **MySQL and Python** to identify key factors affecting retention and provide actionable business insights.
 
 The dataset consists of **9,798 customer records** with demographic, behavioral, and subscription-related features.
 
@@ -20,7 +20,7 @@ The dataset consists of **9,798 customer records** with demographic, behavioral,
 
 * **MySQL** – Data querying and aggregation
 * **Python (Pandas, NumPy)** – Data analysis
-* **R (R Markdown, ggplot2)** – Reporting and visualization
+
 
 ---
 
@@ -56,7 +56,7 @@ Approximately **1 in 4 customers is leaving**
 | Standard          | 26.03%     |
 | Premium           | 25.28%     |
 
-👉 Higher-tier plans show **better customer retention**
+ Higher-tier plans show **better customer retention**
 
 ---
 
@@ -68,7 +68,7 @@ Approximately **1 in 4 customers is leaving**
 | Annual          | 25.31%     |
 | Quarterly       | 23.12%     |
 
-👉 Customers on **monthly plans churn the most**
+ Customers on **monthly plans churn the most**
 
 ---
 
@@ -110,7 +110,6 @@ Customer-Churn-Analysis/
 │── data/
 │── sql/
 │── python/
-│── r_analysis/
 │── visuals/
 │── README.md
 ```
